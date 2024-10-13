@@ -1,4 +1,7 @@
 # closedloop
+
+### This is an obsolete version of README. For a complete description, refer to the README2.md file.
+
 // TODO(user): Add simple overview of use/purpose
 
 ## Description
