@@ -1,4 +1,4 @@
-### Authors: Dariusz Bursztynowski, O-PL; Andrzej Denisiewicz, O-PL 
+### Authors: Dariusz Bursztynowski, O-PL; Andrzej Denisiewicz, O-PL; Thomas Bagnariol O
 ### Dec. 28th, 2023
 
 # DISTRIBUTED CONTROL LOOP BASED ON K8S OPERATORS - DEMO GUIDE
